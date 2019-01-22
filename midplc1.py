@@ -1,4 +1,4 @@
-//esai
+//esaikani
 a=input()
 m=list(a)
 b=len(m)
